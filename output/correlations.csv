@@ -1,0 +1,8 @@
+,utilization,defect_rate,downtime_pct,overdue_orders,staff_availability,energy_overrun,expert_risk
+utilization,1.0,-0.105,-0.217,-0.068,0.077,-0.048,-0.004
+defect_rate,-0.105,1.0,0.407,0.547,-0.456,0.467,0.686
+downtime_pct,-0.217,0.407,1.0,0.574,-0.498,0.468,0.703
+overdue_orders,-0.068,0.547,0.574,1.0,-0.681,0.676,0.852
+staff_availability,0.077,-0.456,-0.498,-0.681,1.0,-0.559,-0.742
+energy_overrun,-0.048,0.467,0.468,0.676,-0.559,1.0,0.698
+expert_risk,-0.004,0.686,0.703,0.852,-0.742,0.698,1.0
